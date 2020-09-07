@@ -1,0 +1,18 @@
+
+/* font-family: 'Monoton', cursive;
+font-family: 'Rancho', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    
+}
+.post{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-evenly;
+    background:rgb(138, 202, 228);
+}
